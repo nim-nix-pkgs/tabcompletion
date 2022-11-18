@@ -111,11 +111,11 @@
       },
       "locked": {
         "dir": "1_1_0",
-        "lastModified": 1668754511,
-        "narHash": "sha256-rzEaeixK0O4PwIkVYtE8B9VpryZWT1R/9hiWdm/2aaI=",
+        "lastModified": 1668775794,
+        "narHash": "sha256-qa/mgR3c10U6BN+tRcxuqRbL0YW9CP4InEpQFM5WApQ=",
         "owner": "nim-nix-pkgs",
         "repo": "eastasianwidth",
-        "rev": "7b4689766322f63c497c376bc63d7439f9899b7a",
+        "rev": "96c113d2cd8e8fbd6aaf83d6b162f6daed755955",
         "type": "github"
       },
       "original": {
